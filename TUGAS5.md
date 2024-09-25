@@ -1,6 +1,3 @@
-Nama : Herdian Arya Erlangga
-
-
 **1. Eksekusi seluruh profile yang ada :**
 
 
